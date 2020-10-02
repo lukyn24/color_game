@@ -1,0 +1,1 @@
+Color game for guessing the right RGB color.
